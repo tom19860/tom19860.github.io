@@ -337,3 +337,7 @@ footer {
 		display: none;
 	}
 }
+
+.social-media-list li {
+	display: inline-block;
+}
